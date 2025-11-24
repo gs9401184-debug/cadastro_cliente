@@ -12,7 +12,7 @@ public class Cliente {
         System.out.println("ID: " + id);
         System.out.println("NOME: " + nome);
         System.out.println("EMAIL: " + email);
-        System.out.println("DATA NASCII: " + dataNascimento);
+        System.out.println("DATA NASCIMENTO: " + dataNascimento);
     }
 
 }
